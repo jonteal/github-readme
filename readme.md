@@ -5,7 +5,7 @@
 
 #### Hailing from: Fayetteville, AR - US | Phone: 479-601-3157 | Email: jonjackson.webdesign@gmail.com
  
- <a href="https://jonteal.github.io/jonjacksonportfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
+ <a href="https://jonjacksondev.com/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
  <a href="https://www.linkedin.com/in/jonathanjackson25/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>
  <a href="mailto:jonjackson.webdesign@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=Gmail"></a>
  
