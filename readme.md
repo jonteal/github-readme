@@ -17,7 +17,7 @@
 </div>
 
 ## About Me:
-I am a full stack developer residing in NW Arkansas with my wife and son. I currently work in the robotics and automation sales industry, and before that completed a Bachelor's in Marketing with the University of Arkansas Walton College of Business. 
+I am a full stack developer residing in NW Arkansas with my wife and son. I currently work in the robotics and automation sales industry, and before that completed a Bachelor's in Marketing with the University of Arkansas Walton College of Business. I earned a certificate in full stack web development from the University of Denver, and have been developing my skils in multiple coding languages and relevant tools.
 
 I have always been and continue to be an avid student of life, motivated and interested in learning anything without hesitation. Before beginning my coding journey, I was also performing as a musician and following my passion as a music producer and recording artist. I decided I wanted to reclaim more of my time and spend time with family so I opted to pursue another interest I've had for many years - computer science and web development! So here we are. I'm so excited to have taken the leap because I think of new ways to apply my learnings every single day, and I can't wait to see where I'm at in 1, 2, 3, 5, 10 years and on! If you think I could contribute to your team, please reach out to me!
 
