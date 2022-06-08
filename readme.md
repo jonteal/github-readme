@@ -23,7 +23,7 @@ I have always been and continue to be an avid student of life, motivated and int
 
 
 - Full Stack Developer certificate from University of Denver
-- I’m currently learning React 
+- I’m currently learning TypeScript 
 - Ask me about what I can bring to your team
 - How to reach me: jonjackson.webdesign@gmail.com
 - Fun fact: I'm a sucker for a good joke
