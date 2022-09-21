@@ -17,7 +17,7 @@
 </div>
 
 ## About Me:
-I am a front end developer with Aetna Health - CVS, specializing in feature based engineering using React, Typescript, GraphQl, Contentful, MFEs, and Redux. I absolutely love to code because it allows the the ability to create things as well as always be learning something new. 
+I am a front end developer with Aetna Health - CVS, specializing in feature based engineering using React, Typescript, GraphQl, Contentful, MFEs, and Redux. I absolutely love to code because it allows me the ability to create things as well as always be learning something new. 
 
 
 - Full Stack Developer certificate from University of Denver
