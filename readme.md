@@ -17,17 +17,10 @@
 </div>
 
 ## About Me:
-I am a front end developer with Aetna Health - CVS, specializing in feature based engineering using React, Typescript, GraphQl, Contentful, and Redux.
+I am a front end developer with Aetna Health - CVS, specializing in feature based engineering using React, Typescript, GraphQl, Contentful, MFEs, and Redux. I absolutely love to code because it allows the the ability to create things as well as always be learning something new. 
 
 
 - Full Stack Developer certificate from University of Denver
 - I’m currently learning Webpack 
-- Ask me about what I can bring to your team
 - How to reach me: jonjackson.webdesign@gmail.com
 - Fun fact: I'm a sucker for a good joke
-
-<div align="center">
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonteal&layout=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-</div>
-
