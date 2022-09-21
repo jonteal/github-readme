@@ -29,10 +29,6 @@ I have always been and continue to be an avid student of life, motivated and int
 - Fun fact: I'm a sucker for a good joke
 
 <div align="center">
- 
-<!-- [![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonteal&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonteal&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonteal&layout=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
