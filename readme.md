@@ -21,6 +21,5 @@ I am a front end developer with Aetna Health - CVS, specializing in feature base
 
 
 - Full Stack Developer certificate from University of Denver
-- I’m currently learning Webpack 
+- I’m currently learning NextJS
 - How to reach me: jonjackson.webdesign@gmail.com
-- Fun fact: I'm a sucker for a good joke
